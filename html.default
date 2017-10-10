@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html lage="ja">
+<html lang="ja">
 <head>
 <meta charset="utf=8">
-<meta name="viewport" contet="width=device-with,initial-=1,shrink-to">
-<title> </title>
-<lnk rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+<meta name="viewport" contet="width=device-width,initial-scale=1,shrink-to-fit=no">
+<title>テストタイトル</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
 </head>
 
 <body>
-
 <nav class="navbar navbar-defult navbar-fix-top">
  <div class="container-fluid">
   <div class="navbar-header">
